@@ -2,7 +2,7 @@
 
 ✨Welcome all 👩‍💻 & 👨‍💻 To TheGr8Coders Hub!✨<br>
 ▶ This Is A Place Where All Coders Can Make Code Together! :) <br>
-▶ To Join, Message Me On Twitter @ArkFoxxYT , Discord @ ArkFoxx#2572 Or Mail @ omarrushil@gmail.com <br><br>
+▶ <b>To Join, Message Me On Twitter @ArkFoxxYT , Discord @ ArkFoxx#2572 Or Mail @ omarrushil@gmail.com </b><br><br>
 About Me<br>
 👋 I'm Rushil Omar, generally known as TheGr8Coder. I like to code.👋<br>
 🌱I am learning SQL, Databases And Game Development @ Unity.🌱<br>
