@@ -18,5 +18,7 @@
 Don't worry, I will be updating this regularly! :) <br><br>
 <b>My Profile Visits :) - </b> <br>
 ![](https://komarev.com/ghpvc/?username=TheGr8Coder&color=038387)
-
-<h1> Visit <a href = "https://github.com/TheGr8Coder" target="blank" >TheGr8Coder</a> , FOLLOW , <em>STAR AND FORK <strong>ME Repository</strong></em> Or Else...
+<br><br>
+<h1>FOLLOW <a href = "https://github.com/TheGr8Coder" target="blank" >TheGr8Coder</a>, <em>STAR AND FORK </em><u>ME Repository</u><br> Or Else...</h1><br><br><br><br>
+i'm just kidding lol <br>
+btw scroll down to see the projects :)
